@@ -1,1 +1,1 @@
-# miyagi-enmusubi.gihub.io
+# miyagi-enmusubi.github.io
